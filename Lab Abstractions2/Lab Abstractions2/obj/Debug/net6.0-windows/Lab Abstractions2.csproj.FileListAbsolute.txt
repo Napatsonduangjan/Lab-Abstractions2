@@ -1,0 +1,17 @@
+D:\ครีม\Lab-Abstractions2\Lab Abstractions2\Lab Abstractions2\obj\Debug\net6.0-windows\Lab Abstractions2.csproj.AssemblyReference.cache
+D:\ครีม\Lab-Abstractions2\Lab Abstractions2\Lab Abstractions2\obj\Debug\net6.0-windows\Lab_Abstractions2.Form1.resources
+D:\ครีม\Lab-Abstractions2\Lab Abstractions2\Lab Abstractions2\obj\Debug\net6.0-windows\Lab Abstractions2.csproj.GenerateResource.cache
+D:\ครีม\Lab-Abstractions2\Lab Abstractions2\Lab Abstractions2\obj\Debug\net6.0-windows\Lab Abstractions2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ครีม\Lab-Abstractions2\Lab Abstractions2\Lab Abstractions2\obj\Debug\net6.0-windows\Lab Abstractions2.AssemblyInfoInputs.cache
+D:\ครีม\Lab-Abstractions2\Lab Abstractions2\Lab Abstractions2\obj\Debug\net6.0-windows\Lab Abstractions2.AssemblyInfo.cs
+D:\ครีม\Lab-Abstractions2\Lab Abstractions2\Lab Abstractions2\obj\Debug\net6.0-windows\Lab Abstractions2.csproj.CoreCompileInputs.cache
+D:\ครีม\Lab-Abstractions2\Lab Abstractions2\Lab Abstractions2\bin\Debug\net6.0-windows\Lab Abstractions2.exe
+D:\ครีม\Lab-Abstractions2\Lab Abstractions2\Lab Abstractions2\bin\Debug\net6.0-windows\Lab Abstractions2.deps.json
+D:\ครีม\Lab-Abstractions2\Lab Abstractions2\Lab Abstractions2\bin\Debug\net6.0-windows\Lab Abstractions2.runtimeconfig.json
+D:\ครีม\Lab-Abstractions2\Lab Abstractions2\Lab Abstractions2\bin\Debug\net6.0-windows\Lab Abstractions2.dll
+D:\ครีม\Lab-Abstractions2\Lab Abstractions2\Lab Abstractions2\bin\Debug\net6.0-windows\ref\Lab Abstractions2.dll
+D:\ครีม\Lab-Abstractions2\Lab Abstractions2\Lab Abstractions2\bin\Debug\net6.0-windows\Lab Abstractions2.pdb
+D:\ครีม\Lab-Abstractions2\Lab Abstractions2\Lab Abstractions2\obj\Debug\net6.0-windows\Lab Abstractions2.dll
+D:\ครีม\Lab-Abstractions2\Lab Abstractions2\Lab Abstractions2\obj\Debug\net6.0-windows\ref\Lab Abstractions2.dll
+D:\ครีม\Lab-Abstractions2\Lab Abstractions2\Lab Abstractions2\obj\Debug\net6.0-windows\Lab Abstractions2.pdb
+D:\ครีม\Lab-Abstractions2\Lab Abstractions2\Lab Abstractions2\obj\Debug\net6.0-windows\Lab Abstractions2.genruntimeconfig.cache
